@@ -1,6 +1,5 @@
 # Excel-Project
-
-Exploratory Data Analysis on “Enhancing Ghanaian Agriculture Through AI-Based Agricultural Software”.
+I worked on this project during my attendance at Focus Technologies' bootcamp. A survey was used to get the data.The study topic "Enhancing Ghanaian Agriculture Through AI-Based Agricultural Software" is exploratory data analysis.
 
 ### Project Overview:
 This data analyst capstone project aims to conduct a thorough exploratory data analysis (EDA) on “enhancing Ghanaian agriculture through AI-based agricultural software” using Google Sheets on the survey collected.
