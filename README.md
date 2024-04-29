@@ -28,7 +28,7 @@ The statistics of the dataset shows that the majority of the farmers knew about 
 From the chart below, we observe an abysmal level of Ai adoption rate. However, there is a massive improvement in the adoption levels in the future. 
  
  
-##Lastly, the study also identified various problems that Ai can solve among the enterprising ones are Management, planning, general operations, Pest control, soil nutrients analysis, Irrigation, Pest destroying crops, Planting and disease control, among others. 
+##Lastly, the study also identified various problems that Ai can solve, among the enterprising ones are Management, planning, general operations, Pest control, soil nutrients analysis, Irrigation, Pest destroying crops, Planting and disease control, among others. 
 
 
 
